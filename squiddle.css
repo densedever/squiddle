@@ -1,0 +1,40 @@
+/* elements */
+
+* {
+    margin: 0px auto;
+    padding: 0px;
+    border: 1px solid black; /* for debugging */
+}
+body {
+    background-color: 844;
+}
+
+#site {
+    color: black;
+    background-color: #ddd;
+}
+
+#site header {}
+
+#site section {}
+
+#site footer {}
+
+
+/* classes */
+.centered {
+    position: relative;
+    left:  0%;
+    top:   0%;
+    right: 0%;
+    bottom:0%;
+}
+
+.leftaligned {
+    text-align: left;
+}
+
+/* components */
+
+
+
